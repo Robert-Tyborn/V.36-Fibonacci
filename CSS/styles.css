@@ -1,0 +1,157 @@
+
+
+body {
+
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+    display: flex;
+    
+}
+
+.flex-container0 {
+    width: 80%;
+    height: 80%;
+    background-color: rgb(176, 54, 54);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+
+}
+
+.flex-container1 {
+    width: 80%;
+    height: 80%;
+    background-color: rgba(219, 217, 217, 0);
+    display: flex;
+    justify-content: center;
+    margin-top:auto;
+    /* align-items: center; */
+
+}
+
+.flex-container2 {
+    width: 80%;
+    height: 80%;
+    /* background-color: rgb(219, 217, 217); */
+    display: flex;
+    justify-content: start;
+    margin-top: auto;
+    /* align-items: center; */
+
+}
+
+
+
+.flex-item1 {
+    width: 1.5%;
+    height: 20%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item2 {
+    width: 1.5%;
+    height: 20%;
+    background-color: rgb(143, 56, 224);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item3 {
+    width: 1.5%;
+    height: 20%;
+    background-color: rgb(151, 77, 219);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item4 {
+    width: 3%;
+    height: 20%;
+    background-color: rgb(160, 95, 221);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item5 {
+    width: 4.5%;
+    height: 20%;
+    background-color: rgb(161, 105, 212);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item6 {
+    width: 6%;
+    height: 20%;
+    background-color: rgb(166, 117, 212);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item7 {
+    width: 7.5%;
+    height: 20%;
+    background-color: rgb(184, 149, 217);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item8 {
+    width: 9%;
+    height: 20%;
+    background-color: rgb(187, 162, 211);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item9 {
+    width: 10.5%;
+    height: 20%;
+    background-color: rgb(205, 185, 225);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
+
+.flex-item10 {
+    width: 12%;
+    height: 20%;
+    background-color: rgb(208, 191, 225);
+    display: flex;
+    justify-content: center;
+    align-items:start;
+    color: white;
+
+}
